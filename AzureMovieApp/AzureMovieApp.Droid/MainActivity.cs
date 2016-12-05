@@ -12,7 +12,7 @@ namespace AzureMovieApp.Droid
 	[Activity (Label = "AzureMovieApp.Droid", MainLauncher = true, Icon = "@drawable/icon")]
 	public class MainActivity : Activity
 	{
-		int count = 2;
+		int count = 3;
 
 		protected override void OnCreate (Bundle bundle)
 		{
